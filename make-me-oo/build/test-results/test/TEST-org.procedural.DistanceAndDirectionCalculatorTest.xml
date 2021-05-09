@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.procedural.DistanceAndDirectionCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-09T07:57:07" hostname="SIRILAKSHMI" time="0.275">
+  <properties/>
+  <testcase name="twoPointsWithSameXAndYCoordinatesShouldHaveADistanceOfZero()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.248"/>
+  <testcase name="distanceBetweenOriginAndPointsOnUnitCircleShouldBeOne()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.004"/>
+  <testcase name="originAndPointOnNegativeXAxisShouldBePiRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.003"/>
+  <testcase name="originAndPointOnPositiveXAxisShouldBeZeroRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.002"/>
+  <testcase name="originAndPointOnYAxisShouldBeHalfPiRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.002"/>
+  <testcase name="distanceBetweenTwoOppositePointsOnUnitCircleShouldBeTwo()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[Executed same x and same y
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
